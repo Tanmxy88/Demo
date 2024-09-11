@@ -6,6 +6,7 @@ public class overloading {
 //        Scanner in = new Scanner(System.in);
 //        int num = in.nextInt();
 //        The value does not get manipulated its stays same as mentioned in the method
+// new
 
         number(70);
         number("Nothing");
