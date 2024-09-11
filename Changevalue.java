@@ -18,7 +18,7 @@ public class Changevalue {
                  System.out.println("Prime number");
              }
 
-// method
+// method name
     }
     static int name(int x){
         x = 70;
