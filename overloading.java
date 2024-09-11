@@ -1,11 +1,11 @@
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class overloading {
 
     public static void main(String[] args) {
 //        Scanner in = new Scanner(System.in);
 //        int num = in.nextInt();
+//        The value does not get manipulated its stays same as mentioned in the method
 
         number(70);
         number("Nothing");
